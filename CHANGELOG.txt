@@ -1,0 +1,10 @@
+1.0
+---
+
+* Add support to show advance relative time (e.g. few minutes left) 
+* Show more fraction of time (e.g. few second ago, half a minute left)
+* Add support of default time string (e.g. Dec 12 2012 19:18:17 UTC)
+* Tested in Firefox v2 to v5, IE v6 to v8, Opera v9 to v11, Safari 3
+* Requires jQuery 1.4+
+* All features of ‘timeAgo’ plugin except ‘dir’ option
+* ISO8601 date format limitation has been dropped
