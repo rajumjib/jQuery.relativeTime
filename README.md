@@ -33,7 +33,7 @@ Or you can use it in a specify scope like.
      <time class="relativeTime" datetime="Dec 12 2012 06:51:50">about 9 hours ago</time>
     </div>
     
-    $('.timeLables').timeago();
+    $('.timeLables').relativeTime();
  
 It will create one relativeTime instance to update the time elements in the div with timeLables class.
 
