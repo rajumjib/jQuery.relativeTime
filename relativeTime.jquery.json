@@ -4,17 +4,20 @@
     "description": "jQuery plugin to display time relative to current time at client.",
     "keywords": [
         "relative",
-        "time"
+        "time",
+        "day",
+        "ago",
+        "left",
     ],
-    "version": "1.0.0",
+    "version": "1.0.1",
     "author": {
         "name": "Md. Jahirul Islam Bhuiyan",
         "url": "http://www.0nline4help.net"
     },
     "maintainers": [
         {
-            "name": "Jahirul Islam",
-            "email": "0nline4help@gmail.com",
+            "name": "Md. Jahirul Islam Bhuiyan",
+            "email": "raju.mjib@gmail.com",
             "url": "http://www.0nline4help.net"
         }
     ],
@@ -27,8 +30,8 @@
     "bugs": "https://github.com/rajumjib/jQuery.relativeTime/issues",
     "homepage": "https://github.com/rajumjib/jQuery.relativeTime",
     "docs": "https://github.com/rajumjib/jQuery.relativeTime/wiki",
-    "download": "http://code.jquery.com/#relativeTime",
+    "download": "https://github.com/rajumjib/jQuery.relativeTime/archive/1.0.1.zip",
     "dependencies": {
-        "jquery": ">=1.5"
+        "jquery": ">=1.4"
     }
 }

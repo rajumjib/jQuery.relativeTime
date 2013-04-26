@@ -1,3 +1,8 @@
+1.0.1
+---
+
+* Add Manifest Specification to publish at http://plugins.jquery.com
+
 1.0
 ---
 

@@ -1,13 +1,13 @@
 /*!
- * jQuery.relativeTime jQuery Plugin v1.0
+ * jQuery.relativeTime jQuery Plugin v1.0.1
  * https://github.com/rajumjib/jQuery.relativeTime
  *
- * Copyright 2012, Jahirul Islam Bhuiyan
+ * Copyright 2012-2013, Jahirul Islam Bhuiyan
  * https://www.online4help.net/
  * Licensed under the MIT license.
  * https://github.com/rajumjib/jQuery.relativeTime/blob/master/LICENSE
  *
- * Date: Tue Dec 04 12:00:00 2012 +0600
+ * Date: Fri Apr 26 12:00:00 2013 +0600
  */
 
 

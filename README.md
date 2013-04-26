@@ -77,4 +77,4 @@ Thanks to all the contributors.
 
 Special thanks to Terry Tai, Pragmatic.ly.
 
-Copyright (c) 2012 Md. Jahirul Islam Bhuiyan (http://www.online4help.net)
+Copyright (c) 2012-2013 Md. Jahirul Islam Bhuiyan (http://www.online4help.net)
